@@ -1,0 +1,19 @@
+{
+  "name": "offlinedocspdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobolajiJinad/WEB_SCRAPER.git"
+  },
+  "author": "Abd'Quadri",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

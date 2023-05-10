@@ -1,0 +1,4 @@
+# Files and folders to be ignored
+
+node_modules
+package-lock.json
